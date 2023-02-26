@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{85DC75D9-7CF5-497E-BCC2-C1788B268FB3}</ProjectGuid>
+    <ProjectGuid>{611937F7-924C-43A4-B590-ED4B113EC6EC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Что_то_тут_должно_быть</RootNamespace>
-    <AssemblyName>Что-то тут должно быть</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <RootNamespace>ConsoleApp1</RootNamespace>
+    <AssemblyName>ConsoleApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
