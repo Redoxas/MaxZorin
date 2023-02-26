@@ -1,0 +1,2 @@
+C:\Users\Макс\source\repos\Что-то тут должно быть\Что-то тут должно быть\obj\Debug\Что-то тут должно быть.csprojAssemblyReference.cache
+C:\Users\Макс\source\repos\Что-то тут должно быть\Что-то тут должно быть\obj\Debug\Что-то тут должно быть.csproj.CoreCompileInputs.cache
